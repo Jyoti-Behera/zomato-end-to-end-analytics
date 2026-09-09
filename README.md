@@ -1,4 +1,4 @@
-# zomato-end-to-end-analytics
+# Zomato-end-to-end-analytics
 
 An interactive Power BI dashboard analyzing Zomato's global restaurant data — covering ratings, cuisines, pricing, delivery availability, and geographic spread across 15 countries.
 
